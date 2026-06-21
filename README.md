@@ -68,10 +68,6 @@ ShoppingCart/
 └── vite.config.js    # Vite configuration
 ```
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
