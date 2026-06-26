@@ -8,6 +8,8 @@ A modern shopping cart application built with **React** and **Vite**, offering a
 - 💰 Real-time price calculations
 - ⚡ Fast performance with Vite bundler
 - 📱 Responsive design
+- 🔍 Product search and filtering
+- 🧾 Item quantity updates and cart summary
 
 ## Tech Stack
 
