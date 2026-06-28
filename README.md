@@ -73,3 +73,13 @@ ShoppingCart/
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
+
+Here’s a concise section you can drop into your README:
+
+***
+
+### Brief History of Shopping Carts
+
+The modern shopping cart was introduced in 1937 by Oklahoma supermarket owner Sylvan Goldman, who combined a folding chair frame, baskets, and wheels to help customers carry more groceries and boost in‑store sales. Early shoppers resisted the idea, but clever in‑store demonstrations soon turned the cart into a standard feature of self‑service supermarkets. In the late 1940s, inventor Orla Watson’s “nesting” cart design allowed multiple carts to telescope into each other, making them easier to store and paving the way for the familiar large-basket carts used in grocery stores today.
+
+With the rise of the web in the 1990s, the “shopping cart” metaphor migrated online as e‑commerce sites needed a simple, familiar way for customers to collect products before checkout. Today, both physical and digital shopping carts are central to how people shop, from supermarket aisles to React-based interfaces like this project.
